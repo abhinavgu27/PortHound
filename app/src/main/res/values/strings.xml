@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PortHound</string>
+    <string name="dashboard_title">DASHBOARD</string>
+    <string name="scanner_title">SCANNER</string>
+    <string name="network_title">NETWORK</string>
+    <string name="logs_title">LOGS</string>
+    <string name="welcome_title">WELCOME</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_headline">WELCOME TO PORTHOUND</string>
+    <string name="welcome_desc">Your professional-grade hidden camera detection suite. Designed for privacy and security.</string>
+    <string name="emf_headline">EMF DETECTION</string>
+    <string name="emf_desc">Scan for electronic components. Perform a 2-inch sweep near suspicious objects for best results.</string>
+    <string name="net_headline">NETWORK PRIVACY</string>
+    <string name="net_desc">Identify silent Wi-Fi cameras connected to your local network. Instantly flag high-risk devices.</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_get_started">GET STARTED</string>
+
+    <!-- Dashboard -->
+    <string name="status_secure">SYSTEM STATUS: SECURE</string>
+    <string name="status_threat">SYSTEM STATUS: THREAT DETECTED</string>
+    <string name="current_reading">Current Reading: %.1f µT</string>
+    <string name="welcome_back">Welcome back, Sentinel</string>
+    <string name="btn_calibrate">CALIBRATE SENSOR</string>
+    <string name="msg_calibrated">Environment Calibrated</string>
+
+    <!-- Scanner -->
+    <string name="cyber_sentinel">PORTHOUND</string>
+    <string name="emf_scan">EMF SCAN</string>
+    <string name="ir_vision">IR VISION</string>
+    <string name="status_scanning">STATUS: SCANNING…</string>
+    <string name="status_threat_detected">STATUS: THREAT DETECTED!</string>
+
+    <!-- Network -->
+    <string name="network_scanner">NETWORK SCANNER</string>
+    <string name="network_desc">Scanning for unauthorized IP cameras…</string>
+    <string name="devices_found">DEVICES FOUND: %d</string>
+    <string name="btn_rescan">RE-SCAN</string>
+    <string name="scanning_subnet">Scanning Subnet: %s</string>
+    <string name="risk_label">RISK</string>
+
+    <!-- Logs -->
+    <string name="security_logs">SECURITY LOGS</string>
+    <string name="logs_desc">Historical threat database</string>
+    <string name="no_threats">NO THREATS DETECTED YET</string>
+    <string name="anomaly_label">%s ANOMALY</string>
+
+    <!-- Privacy -->
+    <string name="privacy_title">Privacy &amp; Compliance</string>
+    <string name="privacy_desc">PortHound is built on a privacy-first architecture. All network and hardware scans are performed locally on your device. No data is ever uploaded or collected. By continuing, you agree to local scanning for security purposes.</string>
+    <string name="btn_accept">I AGREE</string>
+</resources>
